@@ -1,4 +1,6 @@
 // Write your code below
-var fcity = "";
+var fcity = "My favorite city is San Francisco!";
 
-console.log();
+console.log(fcity);
+console.log(fcity.toLowerCase());
+
